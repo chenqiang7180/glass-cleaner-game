@@ -1,0 +1,18 @@
+{
+  "levelId": 2,
+  "windows": [
+    { "id": "w1", "position": [-260, 0], "size": [240, 360] },
+    { "id": "w2", "position": [0, 0], "size": [240, 360] },
+    { "id": "w3", "position": [260, 0], "size": [240, 360] }
+  ],
+  "npcCount": 2,
+  "npcConfig": {
+    "walkSpeed": 55,
+    "windowOpenInterval": { "min": 6, "max": 12 },
+    "windowOpenDuration": { "min": 1.8, "max": 3 },
+    "windowOpenProbability": 0.3,
+    "warningTimeBeforeOpen": 0.9
+  },
+  "targetProgress": 0.75,
+  "timeLimit": 55
+}
