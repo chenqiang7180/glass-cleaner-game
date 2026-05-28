@@ -1,0 +1,10 @@
+{
+    "description": "擦玻璃大师 - 微信小游戏",
+    "packOptions": {
+        "ignore": [
+            { "type": "file", "value": ".*\\.md" },
+            { "type": "file", "value": ".*\\.psd" },
+            { "type": "folder", "value": "raw" }
+        ]
+    }
+}
